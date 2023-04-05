@@ -20,9 +20,11 @@ public class Main {
 
         System.out.println(harryPotter);
         System.out.println(zhouChang);
+        System.out.println();
 
         Griffindor.comparison(harryPotter,ronWeasley);
         Kogtevran.comparison(padmaPatil,zhouChang);
+        System.out.println();
 
         Hogwarts.comparison(dracoMalfoy,zachariasSmith);
 
